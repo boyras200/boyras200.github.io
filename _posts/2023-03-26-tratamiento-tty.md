@@ -5,7 +5,7 @@ subtitle: Que es y como tratar la tty
 cover-img: /assets/img/tratamiento-tty/icono.jpg
 thumbnail-img: /assets/img/tratamiento-tty/icono.jpg
 tags: [linux, explicación, fácil]
-excerpt: "En este post vamos a ver que es la tty y como tratarla."
+excerpt: "En este post vamos a ver que es la tty y como tratarla. Además haremos una prueba práctica donde trataremos la tty de una reverse shell"
 ---
 
 
