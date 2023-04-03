@@ -4,8 +4,8 @@ title: Tratamiento de la tty
 subtitle: Que es y como tratar la tty
 cover-img: /assets/img/tratamiento-tty/icono.jpg
 thumbnail-img: /assets/img/tratamiento-tty/icono.jpg
-tags: [linux, instalación, metasploitable2]
-excerpt: "En este post vamos a instalar la máquina virtual vulnerable llamada Metasploitable2. Esta nos sirve para practicar una gran cantidad de vulnerabilidades comunes."
+tags: [linux, explicación, fácil]
+excerpt: "En este post vamos a ver que es la tty y como tratarla."
 ---
 
 
