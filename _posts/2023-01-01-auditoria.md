@@ -69,7 +69,7 @@ Despues clickaremos en el cmd:
 ![](/assets/img/auditoria/cmd2.jpg)
 
 
-##Sacar IP
+## Sacar IP
 
 Vamos a sacar la IP privada del sistema. Para esto simplemete hacemos los siguiente:
 
