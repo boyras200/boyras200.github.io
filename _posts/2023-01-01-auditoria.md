@@ -96,10 +96,10 @@ Vamos a sacar la IP privada del sistema. Para esto simplemete hacemos los siguie
 
 Nos deberia aparecer algo como esto:
 
-/assets/img/auditoria/ipconfig.png
+![](/assets/img/auditoria/ipconfig.png)
 
 
-/assets/img/auditoria/ipconfig2.png
+![](/assets/img/auditoria/ipconfig2.png)
 
 
 Ya tenemos la IP privada, la necesitaremos mas tarde.
@@ -109,7 +109,7 @@ Ya tenemos la IP privada, la necesitaremos mas tarde.
 
 Empezamos abriendo powershell como administrador:
 
-/assets/img/auditoria/powershell.png
+![](/assets/img/auditoria/powershell.png)
 
 
 Ahora ejecutaremos los siguientes comandos:
@@ -140,7 +140,7 @@ Ya hemos habilitado ssh.
 
 Primero entramos en `https://www.cual-es-mi-ip.net/`
 
-/assets/img/auditoria/ip.png
+![](/assets/img/auditoria/ip.png)
 
 Ahora vamos a `http://192.168.100.1/`
 
@@ -148,41 +148,41 @@ Ponemos las credenciales root:admin
 
 Encontramos algo como esto:
 
-/assets/img/auditoria/huwai.png
+![](/assets/img/auditoria/huwai.png)
 
 
 Vamos a advanced:
 
-/assets/img/auditoria/huwai2.png
+![](/assets/img/auditoria/huwai2.png)
 
 Vamos a fordward rules:
 
-/assets/img/auditoria/huwai3.png
+![](/assets/img/auditoria/huwai3.png)
 
 
 Vamos a IPv4PortMapping:
 
-/assets/img/auditoria/huwai4.png
+![](/assets/img/auditoria/huwai4.png)
 
 
 Le damos a new:
 
-/assets/img/auditoria/huwai5.png
+![](/assets/img/auditoria/huwai5.png)
 
 
 Ponemos la IP privada:
 
-/assets/img/auditoria/huwai6.png
+![](/assets/img/auditoria/huwai6.png)
 
 
 Le damos a add:
 
-/assets/img/auditoria/huwai7.png
+![](/assets/img/auditoria/huwai7.png)
 
 
 Ponemos los siguientes parametros:
 
-/assets/img/auditoria/huwai8.png
+![](/assets/img/auditoria/huwai8.png)
 
 Le damos a apply
 
